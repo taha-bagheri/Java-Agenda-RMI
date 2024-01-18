@@ -81,5 +81,5 @@ public class AgendaClient {
 			System.err.println("Excepción del cliente: " + e.toString());
 			e.printStackTrace();
 		}
-	}
+	} 
 }
